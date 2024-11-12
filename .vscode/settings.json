@@ -6,5 +6,9 @@
     "files.associations": {
         "*.css": "tailwindcss"
     },
-    "typescript.tsdk": "node_modules/typescript/lib"
+    "typescript.tsdk": "node_modules/typescript/lib",
+    "prettier.tabWidth": 2,
+    "prettier.semi": true,
+    "prettier.singleQuote": false,
+    "prettier.trailingComma": "es5"
 }
